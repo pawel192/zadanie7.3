@@ -26,8 +26,15 @@ body {
 	margin-top: 30vh;
 	text-shadow: 2px 2px 2px black;
 }
+.song-text {
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	flex-direction:column;
+}
 .song-text p {
 	margin-top:10vh;
 	text-align:center;
-
+	width:40vh;
+	
 }
